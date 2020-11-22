@@ -1,1 +1,3 @@
-console.log('Here we Goo Node.js');
+const fs = require('fs');
+
+fs.writeFileSync('start.txt', 'Hello from Max.');
