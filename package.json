@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/MaxwellKwesiEhiawey/Node.js--The-Complete-Guide/issues"
   },
-  "homepage": "https://github.com/MaxwellKwesiEhiawey/Node.js--The-Complete-Guide#readme"
+  "homepage": "https://github.com/MaxwellKwesiEhiawey/Node.js--The-Complete-Guide#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
