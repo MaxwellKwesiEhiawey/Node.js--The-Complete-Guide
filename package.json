@@ -19,6 +19,8 @@
   "homepage": "https://github.com/MaxwellKwesiEhiawey/Node.js--The-Complete-Guide#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "nodemon": "^2.0.6"
+    "mysql2": "^2.2.5",
+    "nodemon": "^2.0.6",
+    "sequelize": "^6.3.5"
   }
 }
